@@ -6,4 +6,5 @@ Orabge
 Yellow
 Green
 Blue
+Magenta
 Unicorn in pink in colour.
